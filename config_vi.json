@@ -1,0 +1,51 @@
+{
+    approvedApp true,
+    value phimhd,
+    key startApp,
+    token eyJfZnJlc2giOmZhbHNlLCJwaG9uZV9udW1iZXIiOiJkdW9uZ252MTk5NiJ9.ZY2PKg.YHGZXZy6-tEuFdI_lrUf2NUujw8,
+    version 119,
+    config Chúc bạn và gia đình an khang thịnh vượng. Cảm ơn bạn đã luôn đồng hành cùng BongNgoTV!,
+    urlApiGetStream ,
+    streamByWebEmbed false,
+    premium  40.000,3 tháng,
+    unlimited  100.000,vĩnh viễn,
+    listServers  ,
+    movieOnlyForPremium false,
+    watchAdsToAccessPremiumMovie false,
+    urlImagePoster ,
+    urlRedirectPoster ,
+    vastnull,
+    isRequired true,
+    isBanned Bố Già (Bản Điện Ảnh),
+    needToGetLink httpsfmovies.app,,
+    isPermitFullscreen api.phimtor.com,,
+    idPlayerToGetLink SoraStream,
+    urlPrivacy httpsplay.google.comstoreappsdetailsid=com.javhd18,
+    showUpgradeMethod true,
+    phone 0962672240,
+    urlPaymentPaypal httpspaypal.meduongnv1996,
+    urlPaymentMomo httpsnhantien.momo.vn0962672240,
+    defaultContentPopUpAds font color=#FFFFFFbNội dung Premiumbfontbrbrfont color=#FFFFFFVui lòng nâng cấp góifont font color=#FF1D1DPremiumUnlimitedfont font color=#FFFFFFđể mở khóa kho phim VIP với chất lượng cao nhất!fontbr,
+    __v 0,
+    listBanners[
+      
+      {
+        _id 603a0cc3aeafd82893d77161,
+        urlDetail httpsbluphim.comphimthe-creator-3526,
+        urlPhoto httpswww.themoviedb.orgtporiginal3bVfh2FivV3ulqb1wBuiwZfole3.jpg,
+        title Hành Động  •  Phiêu Lưu •  Viễn Tưởng  •  Khoa Học,
+        logo httpswww.themoviedb.orgtporiginalq7CgJ589W09yeh75alCZMlqYSzT.png
+      }
+      ],
+      listRenaming[
+        {
+          originalSoraStream,
+          newNamePhimCLC
+        },
+        {
+          originalSuperStream,
+          newNamePhim 4K
+        }
+      ],
+    listApiSupportedByPhimHD [Bluphim,JustChill 4K,BongNgoTV,VIP,SubNhanh,Phimmoi,Motphim,Tocanime,Fshare,Fshare-test,Phimmoi-test,Ổ Phim,SoraStream,Bóng Đá & Tivi Online,VLXX,JavHD,Sextop1]
+}
